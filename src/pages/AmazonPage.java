@@ -8,4 +8,6 @@ public class AmazonPage {
     // html search button
 
    // html for deals page
+
+      // html for card page
 }
